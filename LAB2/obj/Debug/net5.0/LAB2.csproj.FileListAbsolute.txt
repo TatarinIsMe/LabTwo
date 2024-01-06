@@ -1,0 +1,16 @@
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.exe
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.deps.json
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.runtimeconfig.json
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.runtimeconfig.dev.json
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.dll
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\ref\LAB2.dll
+C:\Users\zhura\source\repos\LAB2\LAB2\bin\Debug\net5.0\LAB2.pdb
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.csproj.AssemblyReference.cache
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.AssemblyInfoInputs.cache
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.AssemblyInfo.cs
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.dll
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\ref\LAB2.dll
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.pdb
+C:\Users\zhura\source\repos\LAB2\LAB2\obj\Debug\net5.0\LAB2.genruntimeconfig.cache
